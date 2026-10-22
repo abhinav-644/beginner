@@ -1,0 +1,13 @@
+def addition(a,b):
+  return a+b
+def subtraction(a,b):
+  return a-b
+def multiplication(a,b):
+  return a*b
+def division(a,b)
+a = input("input first number")
+b = input("input second number")
+c = input("what operation would you like to use?")
+
+
+if 
